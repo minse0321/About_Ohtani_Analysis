@@ -36,7 +36,7 @@ Data collected via pybaseball API → SQLite DB → SQL queries → Python visua
 
 
 ## Dashboard
-🔗 [View on Tableau Public](여기에_태블로_링크_나중에_추가)
+🔗 [View on Tableau Public](https://public.tableau.com/app/profile/minseo.choi4768/viz/Ohtani_Career_Batting_Analysis/Ohtani_San_Dashboard?publish=yes)
 
 ## Data Note
 - Source: MLB Baseball Savant via pybaseball
